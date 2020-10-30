@@ -3,15 +3,15 @@ Information regarding FOSS Campus Clubs
 
 # Active Clubs
 
-* Uva Wellassa University (UWU)- 
-* University of Moratuwa (UOM) - 
-* University of Kalaniya (UOK) - 
-* University of Colombo School of Computing - 
-* Rajarata University of Sri Lanka (RUSL) - 
-* NSBM - 
-* SLIIT - 
-* IIT - 
-* ICBT Kandy Campus - 
+* Uva Wellassa University (UWU)-   S.Y.B. Senevirathne
+* University of Moratuwa (UOM) -   Nimna Perera     
+* University of Kalaniya (UOK) -   Kalindu thilanga
+* University of Colombo School of Computing (UCSC) -    
+* Rajarata University of Sri Lanka (RUSL) - Shakthi Lahiru 
+* NSBM -  Harindu Lakshan
+* SLIIT -  Malindu Attygala 
+* IIT -  Jihan Jeeth  
+* ICBT Kandy Campus -    Nikeshala Thennakoon
 * KDU -
 
 Template to add a new campus club [template.md](template.md)

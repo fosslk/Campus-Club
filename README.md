@@ -3,7 +3,7 @@ Information regarding FOSS Campus Clubs
 
 # Active Clubs
 
-* NSBM - 
+* [CAMPUS_SHORT_CODE](template.md) - Club captain name - [@twitter](https://twitter.com)
 
 # Contact point
 FOSS Sri Lanka contact for Campus Clubs. 

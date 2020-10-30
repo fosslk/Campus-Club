@@ -14,6 +14,8 @@ Information regarding FOSS Campus Clubs
 * ICBT Kandy Campus - 
 * KDU -
 
+Template to add a new campus club [template.md](template.md)
+
 # Contact point
 FOSS Sri Lanka contact for Campus Clubs. 
 

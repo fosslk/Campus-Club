@@ -3,7 +3,16 @@ Information regarding FOSS Campus Clubs
 
 # Active Clubs
 
-* [CAMPUS_SHORT_CODE](template.md) - Club captain name - [@twitter](https://twitter.com)
+* Uva Wellassa University (UWU)- 
+* University of Moratuwa (UOM) - 
+* University of Kalaniya (UOK) - 
+* University of Colombo School of Computing - 
+* Rajarata University of Sri Lanka (RUSL) - 
+* NSBM - 
+* SLIIT - 
+* IIT - 
+* ICBT Kandy Campus - 
+* KDU -
 
 # Contact point
 FOSS Sri Lanka contact for Campus Clubs. 

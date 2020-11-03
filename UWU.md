@@ -25,7 +25,7 @@ Mozilla Campus Club - UWU is a community organization which supports university 
 ## How to join?
 
 - Go to [Mozilla Campus Club - UWU](https://mozillauwu.github.io/) official website
-- On top of the page click on the "join club" button. that will navigate you the membership section
+- On top of the page click on the "join club" button. that will navigate you to the membership section
 - Click on the [Register Now](https://mozillauwu.page.link/reg) button 
 - Now fill the form and submit. thats all!
 

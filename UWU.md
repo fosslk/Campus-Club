@@ -29,9 +29,6 @@ Mozilla Campus Club - UWU is a community organization which supports university 
 - Click on the [Register Now](https://mozillauwu.page.link/reg) button 
 - Now fill the form and submit. thats all!
 
-## MIC/Board information
-
-If your university requires a either a board or a master in charge, please specify the details here. If possible, include a contact detail for them also.
 
 ## Links
 

@@ -24,9 +24,9 @@ If your university requires a either a board or a master in charge, please speci
 
 ## Links
 
-Social and Othe platform links.
+Social and Other platform links of FOSSMora.
 
-Facebook page: https://www.facebook.com/fossmora
-Twitter page: https://www.twitter.com/fossmora_
-Linkedin page: https://www.linkedin.com/company/fossmora
-Github: https://www.github.com/fossmora/
+ - Facebook page: https://www.facebook.com/fossmora
+ - Twitter page: https://www.twitter.com/fossmora_
+ - Linkedin page: https://www.linkedin.com/company/fossmora
+ - Github: https://www.github.com/fossmora/

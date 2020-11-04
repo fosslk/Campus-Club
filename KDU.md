@@ -20,14 +20,11 @@ General Sir John Kotelawala Defence University located at Kandawala, Ratmalana, 
 
 ## How to join?
 
-You should include proper guideline on how to join your campus club.
-
 - Visit the registration form here: [Register Now](https://forms.gle/mhCwAf78ad3DNZzj7)
 - You will receive an confirmation with further instructions.
 
 ## MIC/Board information
 
-If your university requires a either a board or a master in charge, please specify the details here. If possible, include a contact detail for them also.
 
 ## Links
 

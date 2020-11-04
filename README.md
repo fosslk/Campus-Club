@@ -12,7 +12,7 @@ Information regarding FOSS Campus Clubs
 * SLIIT -  Malindu Attygala 
 * IIT -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon
-* KDU -
+* [KDU](KDU.md) - Chanakya Bandara 
 
 Template to add a new campus club [template.md](template.md)
 

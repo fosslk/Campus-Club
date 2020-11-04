@@ -3,7 +3,7 @@ Information regarding FOSS Campus Clubs
 
 # Active Clubs
 
-* Uva Wellassa University (UWU)-   S.Y.B. Senevirathne
+* [Uva Wellassa University (UWU)](UWU.md)-   S.Y.B. Senevirathne
 * University of Moratuwa (UOM) -   Nimna Perera     
 * University of Kalaniya (UOK) -   Kalindu thilanga
 * University of Colombo School of Computing (UCSC) -    

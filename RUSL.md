@@ -4,12 +4,11 @@
 
 ## Members
 
-* Shakthi Lahiru [@Linkedin](https://www.linkedin.com/in/shakthi-lahiru/)  
+- Shakthi Lahiru [@Linkedin](https://www.linkedin.com/in/shakthi-lahiru/)  
 - Pasindu Oshadha
 - Nimantha Dilshan
 - Anushka Samarasinghe
 - Tashini Somarathne
-- Shakthi Lahiru
 - K.G.Rashini Kaweesha
 - W.H.M. Manjari Sharitha Wijekoon
 - Heshani Rajasinghe 

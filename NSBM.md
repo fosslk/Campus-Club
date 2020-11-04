@@ -45,11 +45,11 @@ If your university requires a either a board or a master in charge, please speci
 
 ## Links
 
-Website and Blog: https://fossnsbm.org
-Forum: https://forum.fossnsbm.org
-Facebook: https://www.facebook.com/foss.nsbm
-Twitter: https://twitter.com/fossnsbm
-GitHub: https://github.com/fossnsbm
-LinkedIn: https://www.linkedin.com/company/fossnsbm/
-Instagram: https://www.instagram.com/fossnsbm/
+Website and Blog: https://fossnsbm.org  
+Forum: https://forum.fossnsbm.org  
+Facebook: https://www.facebook.com/foss.nsbm  
+Twitter: https://twitter.com/fossnsbm  
+GitHub: https://github.com/fossnsbm  
+LinkedIn: https://www.linkedin.com/company/fossnsbm/  
+Instagram: https://www.instagram.com/fossnsbm/  
 

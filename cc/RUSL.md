@@ -5,7 +5,7 @@
 ## Members
 
 - Shakthi Lahiru [@Linkedin](https://www.linkedin.com/in/shakthi-lahiru/)  
-- Pasindu Oshadha [@Linkedin](https://www.linkedin.com/in/shakthi-lahiru/) 
+- Pasindu Oshadha [@Linkedin](https://www.linkedin.com/in/pasindu7) 
 - Nimantha Dilshan [@Linkedin](https://www.linkedin.com/in/nimantha-dilshan/) 
 - Anushka Samarasinghe [@Linkedin](http://linkedin.com/in/anushka-samarasinghe) 
 - Tashini Somarathne [@Linkedin](https://www.linkedin.com/in/tashini-somarathne) 

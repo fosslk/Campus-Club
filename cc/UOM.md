@@ -13,14 +13,10 @@ We bring like minded people together in their thirst for knowledge and experienc
 
 <!-- ## How to join?
 
-You should include proper guideline on how to join your campus club.
-
-- Step one
-- Step two -->
 
 <!-- ## MIC/Board information
 
-If your university requires a either a board or a master in charge, please specify the details here. If possible, include a contact detail for them also. -->
+
 
 ## Links
 

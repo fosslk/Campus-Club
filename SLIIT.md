@@ -15,7 +15,7 @@ We are to continue to build momentum for Mozilla’s mission through new structu
 ## How to join?
 The students who are interested can apply to be a sub-committee member of the club
 
-- First they need to apply by filling the application form 
+- First they need to apply by filling the application form [Click here](https://forms.gle/zCSZPvHB8WzGqvKS6)
 - Then they will be interviewed and recruited as a sub-committee member
 
 ## MIC/Board information

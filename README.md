@@ -9,7 +9,7 @@ Information regarding FOSS Campus Clubs
 * University of Colombo School of Computing (UCSC) -    
 * [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Shakthi Lahiru 
 * [NSBM](cc/NSBM.md) -  Harindu Lakshan
-* SLIIT (cc/SLIIT.md) -  Malindu Attygala 
+* [SLIIT](cc/SLIIT.md) -  Malindu Attygala 
 * IIT -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon
 * [KDU](cc/KDU.md) - Chanakya Bandara 

@@ -26,10 +26,10 @@
 
 ## Links
 
-- [Website and Blog] (https://fossrusl.wordpress.com/)  
-- [Facebook] (https://www.facebook.com/fossrusl/)  
-- [LinkedIn] (https://www.linkedin.com/company/foss-community-rusl)
-- [Github] (https://github.com/FOSSRusl)
+- [Website and Blog](https://fossrusl.wordpress.com/)  
+- [Facebook](https://www.facebook.com/fossrusl/)  
+- [LinkedIn](https://www.linkedin.com/company/foss-community-rusl)
+- [Github](https://github.com/FOSSRusl)
 
 
 

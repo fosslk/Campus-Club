@@ -10,7 +10,7 @@ Information regarding FOSS Campus Clubs
 * [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Shakthi Lahiru 
 * [NSBM](cc/NSBM.md) -  Harindu Lakshan
 * [SLIIT](cc/SLIIT.md) -  Malindu Attygala 
-* IIT -  Jihan Jeeth  
+* [IIT](cc/IIT.md) -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon
 * [KDU](cc/KDU.md) - Chanakya Bandara 
 

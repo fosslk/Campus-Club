@@ -1,4 +1,4 @@
-![Mora FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/UoM/logo/2020/FOSS_Logo.png?raw=true)
+![Mora FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/UoM/logo/2020/FOSS_Logo.png?raw=true#cc_logo)
 
 # UOM - University of Moratuwa
 

@@ -1,4 +1,4 @@
-![NSBM FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/NSBM/logo/2020/fossnsbmFullOriginal.png?raw=true)
+![NSBM FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/NSBM/logo/2020/fossnsbmFullOriginal.png?raw=true#cc_logo)
 # NSBM - NSBM Green University
 
 Contribute to the community with developments and new concepts transforming young lives to feel as a part of the world’s largest developing community

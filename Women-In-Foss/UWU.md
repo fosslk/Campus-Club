@@ -21,10 +21,4 @@ If your university requires a either a board or a master in charge, please speci
 
 ## Links
 
-Include any links you wish to publish.
-
-
-```diff
-- Do not add any non public contact information such as phone numbers or emails. 
-+ If you're adding emails, try adding a link to a contact form instead
-```
+GitHub :https://github.com/csuwu

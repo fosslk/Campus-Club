@@ -5,7 +5,7 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 * Chethana Wickramarachchi [@twitter](https://twitter.com)  
 
-Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
+◾ Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
 
 
 ## How to join?

@@ -11,7 +11,7 @@ Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3)
 ## How to join?
 
 - Go to [@form](https://bit.ly/32Ho81v)
-- Fill the Form Submit it
+- Fill the Form and Submit it
 
 
 ## Links

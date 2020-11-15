@@ -5,19 +5,14 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 * Chethana Wickramarachchi [@twitter](https://twitter.com)  
 
-◾ Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
+Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
 
 
 ## How to join?
 
-You should include proper guideline on how to join your campus club.
+- Go to [@form](https://bit.ly/32Ho81v)
+- Fill the Form Submit it
 
-- Step one
-- Step two
-
-## MIC/Board information
-
-If your university requires a either a board or a master in charge, please specify the details here. If possible, include a contact detail for them also.
 
 ## Links
 

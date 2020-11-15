@@ -32,7 +32,7 @@
 - [Twitter](https://twitter.com/FossRusl)
 - [Instagram](https://Instagram.com/foss_rusl)
 - [Youtube](https://www.youtube.com/channel/UCyWPOgvZMINSe4yi2lrvzjQ)
-- [LinkedIn] (https://www.linkedin.com/company/foss-community-rusl)
+- [LinkedIn](https://www.linkedin.com/company/foss-community-rusl)
 - [Github](https://github.com/FOSSRusl)
 
 

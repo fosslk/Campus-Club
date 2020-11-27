@@ -5,15 +5,15 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 * Chethana Wickramarachchi [@twitter](https://twitter.com/tweety_lk)  
 
-Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
-Thashini Kamalka [@twitter](https://mobile.twitter.com/Thashini9) 
-Nayanthikumarasingha [@twitter](https://mobile.twitter.com/Nayanthikumara2) 
-Thilaksi Gunathilaka [@twitter](https://mobile.twitter.com/ThilaSG_K) 
-Chamilka Sanduni [@twitter](https://mobile.twitter.com/ChamilkaSanduni) 
-Malsha Samarakoon [@twitter](https://mobile.twitter.com/MalshaSamarako1) 
-Thrividya Liyanaarachchi [@twitter](https://mobile.twitter.com/ThrividyaL)
-Ashani Fonseka [@twitter](https://mobile.twitter.com/Ashi_UWU_CST)
-Tyni EgodaGedarage [@twitter](https://mobile.twitter.com/egodagedarage)
+ - Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
+ - Thashini Kamalka [@twitter](https://mobile.twitter.com/Thashini9) 
+ - Nayanthikumarasingha [@twitter](https://mobile.twitter.com/Nayanthikumara2) 
+ - Thilaksi Gunathilaka [@twitter](https://mobile.twitter.com/ThilaSG_K) 
+ - Chamilka Sanduni [@twitter](https://mobile.twitter.com/ChamilkaSanduni) 
+ - Malsha Samarakoon [@twitter](https://mobile.twitter.com/MalshaSamarako1) 
+ - Thrividya Liyanaarachchi [@twitter](https://mobile.twitter.com/ThrividyaL)
+ - Ashani Fonseka [@twitter](https://mobile.twitter.com/Ashi_UWU_CST)
+ - Tyni EgodaGedarage [@twitter](https://mobile.twitter.com/egodagedarage)
 
 ## How to join?
 

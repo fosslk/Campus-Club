@@ -4,13 +4,13 @@ Information regarding FOSS Campus Clubs
 # Active Clubs
 
 * [Uva Wellassa University (UWU)](cc/UWU.md)-   S.Y.B. Senevirathne
-* University of Moratuwa (UOM) -   Nimna Perera     
+* [University of Moratuwa (UOM)](cc/UOM.md)-   Nimna Perera     
 * University of Kalaniya (UOK) -   Kalindu thilanga
 * University of Colombo School of Computing (UCSC) -    
 * [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Shakthi Lahiru 
 * [NSBM](cc/NSBM.md) -  Harindu Lakshan
-* SLIIT -  Malindu Attygala 
-* IIT -  Jihan Jeeth  
+* [SLIIT](cc/SLIIT.md) -  Malindu Attygala 
+* [IIT](cc/IIT.md) -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon
 * [KDU](cc/KDU.md) - Chanakya Bandara 
 

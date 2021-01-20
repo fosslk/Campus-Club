@@ -6,22 +6,13 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
 
 ## Members
 
-* Sewvandi Wickramasinghe [@twitter](https://twitter.com/Sewvandiii)  
-  - Renu Harshatha
-  - Nishiki Yapa
-  - Hansi Pabasara
-  - Dilini Oshadi
-  - Shanu Chandrasekara
-  - Chamodi Thennakoon
-  - Isuri Arachchige
-  - Oshini Dinethrie
-  - Thathsarani Wickramaarachchi
-  - Uvini Wijesinghe
-  - Anne Deshani
-  - Samanthi De Silva
-  - Kithmini Indimagedara
-  - Kethmi Hasara
-  - Shadhini 
+* Club Lead - Sewvandi Wickramasinghe [@twitter](https://twitter.com/Sewvandiii)  
+  - Membership and  Recruit Lead -  Nishiki Yapa
+  - Web and Graphic Team Lead - Uvini Wijesinghe
+  - Marketing and Publicity Lead - Dilini Oshadie
+  - Developing Team Lead - Hansi Pabasara
+  - Content Writing Team Lead - Thathsarani Wickramaarachchi
+  - Technical Lead - Renu Harshatha
 
 ## How to join?
 

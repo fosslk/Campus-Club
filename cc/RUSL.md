@@ -4,14 +4,17 @@
 
 ## Members
 
-* Club Lead - Shakthi Lahiru [Linkedin](https://www.linkedin.com/in/shakthi-lahiru/)  
-* Technical Lead - Pasindu Oshadha [Linkedin](https://www.linkedin.com/in/pasindu7) 
-* Developer Relation Lead - Anushka Samarasinghe [Linkedin](http://linkedin.com/in/anushka-samarasinghe)
-* Communication Lead- Manjari Sharitha Wijekoon [Linkedin](http://linkedin.com/in/manjari-wijekoon) 
-* Web Education Lead - Nimantha Dilshan [Linkedin](https://www.linkedin.com/in/nimantha-dilshan/) 
-* Membership and Recruit Lead - Tashini Somarathne [Linkedin](https://www.linkedin.com/in/tashini-somarathne-246605171) 
-* Event Lead - Rashini Kaweesha [Linkedin](https://www.linkedin.com/in/rashini-kaweesha-589062199/) 
-* Program Manager - Heshani Rajasinghe [Linkedin](https://www.linkedin.com/in/heshani-rajasinghe-82a0b0165) 
+* Club Lead - Dinusha Weerakoon                                                               
+* Technical Lead - Dimantha Weerakoon 
+* Developer relation Lead - Chinthaka Kasun 
+* Programming Lead - Hashan Weerasinghe 
+* Communication and publicity Lead - Heshani Nimalka [Linkedin](https://www.linkedin.com/in/heshani-rajasinghe-82a0b0165) 
+* Event Lead - Supasan Deemantha 
+* Program manager - Chamodi Karunathilke
+* Graphic Design Lead - Rashini Kaweesha [Linkedin](https://www.linkedin.com/in/rashini-kaweesha-589062199/) 
+* Digital Marketing Lead - Soumya Cooray
+* Volunteer and Recruit Lead - Nipuna Dilshan
+* Content writing Lead - Pasangi Mekalani
 
 
 ## How to join?
@@ -34,6 +37,8 @@
 - [LinkedIn](https://www.linkedin.com/company/foss-community-rusl)
 - [Github](https://github.com/FOSSRusl)
 - [WhatsApp](https://chat.whatsapp.com/EI2X3Kv4HBIG7JpCSqE0Lk)
+
+
 
 
 

@@ -1,7 +1,9 @@
 
 
 
-![RUSL FOSS Logo](https://github.com/FOSSRusl/fosslogo/blob/main/FOSS%20LOGO.png)
+
+![RUSL FOSS Logo](https://raw.githubusercontent.com/FOSSRusl/fosslogo/main/FOSS%20LOGO%20without%20BG.png)
+
 
 # RUSL - Rajarata University Of Sri Lanka 
 

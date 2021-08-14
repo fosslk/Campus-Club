@@ -1,4 +1,6 @@
+
 ![RUSL FOSS Logo](https://github.com/FOSSRusl/fosslogo/blob/main/FOSS%20LOGO.png)
+
 # RUSL - Rajarata University Of Sri Lanka 
 
 
@@ -37,6 +39,9 @@
 - [LinkedIn](https://www.linkedin.com/company/foss-community-rusl)
 - [Github](https://github.com/FOSSRusl)
 - [WhatsApp](https://chat.whatsapp.com/EI2X3Kv4HBIG7JpCSqE0Lk)
+
+
+
 
 
 

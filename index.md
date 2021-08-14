@@ -7,7 +7,7 @@ Information regarding FOSS Campus Clubs
 * [University of Moratuwa (UOM)](cc/UOM.md)-   Nimna Perera     
 * University of Kalaniya (UOK) -   Kalindu thilanga
 * University of Colombo School of Computing (UCSC) -    
-* [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Shakthi Lahiru 
+* [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Dinusha Weerakoon 
 * [NSBM](cc/NSBM.md) -  Harindu Lakshan
 * [SLIIT](cc/SLIIT.md) -  Malindu Attygala 
 * [IIT](cc/IIT.md) -  Jihan Jeeth  

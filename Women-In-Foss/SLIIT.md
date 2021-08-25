@@ -1,5 +1,6 @@
-
 # SLIIT - Sri Lanka Institute of Information Technology
+
+![Women-in-FOSS-SLIIT-Logo (1)](https://user-images.githubusercontent.com/61576355/130833123-aac53dba-85e7-40d2-bad1-a94214dc8654.jpg)
 
 As women, the goal of the starting Open Source Community at Sri Lanka Institute of Information Technology is to improve student skills, contribute to society with inventions and new ideas, and make students part of the largest community in the world.
 

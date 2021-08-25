@@ -7,12 +7,14 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
 ## Members
 
 * Club Lead - Sewvandi Wickramasinghe [@twitter](https://twitter.com/Sewvandiii)  
-  - Bhagya Kithmini Indimagedara
+  - Bhagya Indimagedara
   - Uvini Wijesinghe
-  - Heshini S. R. A. Weerasinghe
-  - Dulya Kemali Perera
-  - Content Writing Team Lead - Thathsarani Wickramaarachchi
-  - Technical Lead - Renu Harshatha
+  - Heshini Weerasinghe
+  - Dulya Perera
+  - 
+  - 
+  -
+  -
 
 ## How to join?
 

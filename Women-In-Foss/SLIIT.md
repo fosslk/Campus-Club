@@ -4,7 +4,6 @@
 
 As women, the goal of the starting Open Source Community at Sri Lanka Institute of Information Technology is to improve student skills, contribute to society with inventions and new ideas, and make students part of the largest community in the world.
 
-
 ## Members
 
 * Sewvandi Wickramasinghe [@twitter](https://twitter.com/Sewvandiii)  
@@ -14,8 +13,8 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
   - Dulya Perera
   - Modeesha Priyanka
   - Sheikha Rahman
-  - Sandali 
-  - Tharukshi  
+  - Sandali Kalavitigoda
+  - Tharukshi Lalendra
 
 ## How to join?
 

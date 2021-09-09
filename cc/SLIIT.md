@@ -1,26 +1,35 @@
 
 # SLIIT - Sri Lanka Institute of Information Technology
 
-We are to continue to build momentum for Mozilla’s mission through new structures and supports that will help engage more people with a passion for the open web.
+SLIIT FOSS Community is a team of volunteers who believe in the usage of Free/Open Source Software (FOSS). The primary objective of the community is to promote, develop and diversify the usage of Free/Open Source Software at SLIIT.
 
 ## Members
 
-* Club captain - Malindu Attygala [@Linkedin](https://www.linkedin.com/in/malindu-attygala-b98b34182/)  
-* Communication Lead - Pubudu Arosha [@Linkedin](https://www.linkedin.com/in/pubuduarosha/)  
-* Communication Lead - Oshadi Ranathunge [@Linkedin](https://www.linkedin.com/in/oshadi-ranathunge-23055b174/) 
-* Developer Relational Lead - Renu Harshatha [@Linkedin](https://www.linkedin.com/in/renu-harshatha/)  
-* Marketing and Publicity Lead - Bawantha Thilan [@Linkedin](https://www.linkedin.com/in/bawanthathilan/) 
-* Membership and Recruit Lead - Chamika Visal [@Linkedin](https://www.linkedin.com/in/chamika-perera-294074194/)
-
+- President - Chamod Shehanka
+- Vice President - Bawantha Thilan
+- Secretary - Sewvandi Wickramasinghe 
+- Assistant Secretary - Sahas Gunasekara
+- Treasurer - Kaveesha Gimhana
+- Assistant treasurer - Dureksha Wasala
+- Editor - Nisal Palliyaguru
+- Dev Relation - Sithum Sandeepa
+- Event Coordinator - Madusha Prashad
+- Project Coordinator - Chenuka Sumanasekara
 ## How to join?
-The students who are interested can apply to be a sub-committee member of the club
 
-- First they need to apply by filling the application form [Click here](https://forms.gle/zCSZPvHB8WzGqvKS6)
-- Then they will be interviewed and recruited as a sub-committee member
+- Send an email to [infosliitfoss@gmail.com](infosliitfoss@gmail.com) 
+- Include following details
+    - Full name
+    - National identity card
+    - Student Id
+    - Current year
+    - Interested fields 
 
-## MIC/Board information
+Keep yourself connected through our social media platforms to never miss out on latest updates.
 
+- Instagram: https://instagram.com/sliitfoss
+- Facebook: https://www.facebook.com/sliitfoss/
+- Medium: https://medium.com/sliit-foss
+- GitHub: https://github.com/sliit-foss
+- YouTube: https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w
 
-## Links
-- [Find us on Facebook](https://www.facebook.com/sliitmcc)
-- [Find us on Instagram](https://www.instagram.com/mozillacampusclubsliit/)

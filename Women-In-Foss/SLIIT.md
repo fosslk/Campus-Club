@@ -24,6 +24,7 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
     - National identity card
     - Student Id
     - Current year
+    - Interested fields
 
 ## Links
 

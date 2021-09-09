@@ -15,6 +15,7 @@ SLIIT FOSS Community is a team of volunteers who believe in the usage of Free/Op
 - Dev Relation - Sithum Sandeepa
 - Event Coordinator - Madusha Prashad
 - Project Coordinator - Chenuka Sumanasekara
+
 ## How to join?
 
 - Send an email to [infosliitfoss@gmail.com](infosliitfoss@gmail.com) 

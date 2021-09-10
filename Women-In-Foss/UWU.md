@@ -3,7 +3,7 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 ## Members
 
-* Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3)  
+* Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3)  (Club Lead)
 
 - Ashani Fonseka (Technical lead)
 - Thilaksi Gunathilaka (Design lead)

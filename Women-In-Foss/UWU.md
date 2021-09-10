@@ -3,17 +3,15 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 ## Members
 
-* Chethana Wickramarachchi [@twitter](https://twitter.com/tweety_lk)  
+* Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3)  
 
- - Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3) 
- - Thashini Kamalka [@twitter](https://mobile.twitter.com/Thashini9) 
- - Nayanthikumarasingha [@twitter](https://mobile.twitter.com/Nayanthikumara2) 
- - Thilaksi Gunathilaka [@twitter](https://mobile.twitter.com/ThilaSG_K) 
- - Chamilka Sanduni [@twitter](https://mobile.twitter.com/ChamilkaSanduni) 
- - Malsha Samarakoon [@twitter](https://mobile.twitter.com/MalshaSamarako1) 
- - Thrividya Liyanaarachchi [@twitter](https://mobile.twitter.com/ThrividyaL)
- - Ashani Fonseka [@twitter](https://mobile.twitter.com/Ashi_UWU_CST)
- - Tyni EgodaGedarage [@twitter](https://mobile.twitter.com/egodagedarage)
+-Technical lead - Ashani Fonseka
+-Design lead  - Thilaksi Gunathilaka
+-Membership and Requirement lead - S.M. Malsha Chamodi Samarakoon
+-Secretary lead - Thrividya Liyanaarachchi
+-Event Coordinator - Tyni Egoda Gedarage
+-Event Coordinator - Thashini Kamalka
+-Publicity Lead - Nayanthi Yasora Kumarasingha
 
 ## How to join?
 

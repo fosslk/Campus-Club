@@ -12,6 +12,7 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 - Tyni Egoda Gedarage (Event Coordinator)
 - Thashini Kamalka (Event Coordinator)
 - Nayanthi Yasora Kumarasingha (Publicity Lead)
+
 - Thussitha Jegatheesan
 - Nuha Fareed
 - Subhashini de Silva

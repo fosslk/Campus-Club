@@ -5,13 +5,16 @@ To lessen gender gap and encourage women to embrace FOSS by acting ethically, fa
 
 * Hashini Munasinghe [@twitter](https://mobile.twitter.com/HashiniMunasin3)  
 
--Technical lead - Ashani Fonseka
--Design lead  - Thilaksi Gunathilaka
--Membership and Requirement lead - S.M. Malsha Chamodi Samarakoon
--Secretary lead - Thrividya Liyanaarachchi
--Event Coordinator - Tyni Egoda Gedarage
--Event Coordinator - Thashini Kamalka
--Publicity Lead - Nayanthi Yasora Kumarasingha
+- Ashani Fonseka
+- Thilaksi Gunathilaka
+- S.M. Malsha Chamodi Samarakoon
+- Thrividya Liyanaarachchi
+- Tyni Egoda Gedarage 
+- Thashini Kamalka
+- Nayanthi Yasora Kumarasingha
+
+
+
 
 ## How to join?
 

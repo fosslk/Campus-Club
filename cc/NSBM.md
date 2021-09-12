@@ -26,15 +26,15 @@ Contribute to the community with developments and new concepts transforming youn
 
 Anyone interested in joining the FOSS Community of NSBM or its sub-communities can follow the below steps
 
-- Visit volunteer.fossnsbm.org and fill the given form
-- Visit forum.fossnsbm.org
-- Create an Account
+- Visit volunteer.fossnsbm.org and fill the application form
+- Then visit forum.fossnsbm.org and create a forum account
 
 ## MIC/Board information
 
 ## Links
 
 Website and Blog: [https://fossnsbm.org](https://fossnsbm.org)
+Volunteer: [https://volunteer.fossnsbm.org/](https://volunteer.fossnsbm.org/)
 Forum: [https://forum.fossnsbm.or](https://forum.fossnsbm.or)
 
 [Facebook](https://www.facebook.com/foss.nsbm)

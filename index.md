@@ -8,7 +8,7 @@ Information regarding FOSS Campus Clubs
 * University of Kalaniya (UOK) -   Kalindu thilanga
 * University of Colombo School of Computing (UCSC) -    
 * [Rajarata University of Sri Lanka (RUSL)](cc/RUSL.md) - Dinusha Weerakoon 
-* [NSBM](cc/NSBM.md) -  Harindu Lakshan
+* [NSBM](cc/NSBM.md) -  Buddhika Dananjaya
 * [SLIIT](cc/SLIIT.md) -  Malindu Attygala
 * [IIT](cc/IIT.md) -  Jihan Jeeth  
 * ICBT Kandy Campus -    Nikeshala Thennakoon

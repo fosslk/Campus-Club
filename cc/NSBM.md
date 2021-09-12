@@ -18,7 +18,7 @@ Contribute to the community with developments and new concepts transforming youn
   - Chamodie Pubudini [@twitter](https://twitter.com/CPubudini)
   - Dasith Vidanage [@twitter](https://twitter.com/dasithsv)
   - Nethmi Kodikara [@twitter](https://twitter.com/kodikara_nethmi)
-  - Hashinika Adhikari [@twitter](https://twitter.com/)
+  - Hashinika Adhikari [@twitter](https://twitter.com/Hashinika22)
   - Suraji Ekanayaka [@twitter](https://twitter.com/SurajiEkanayaka)
 
 

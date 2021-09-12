@@ -6,29 +6,20 @@ Contribute to the community with developments and new concepts transforming youn
 
 ## Council Members
 
-* Harindu Lakshan [@twitter](https://twitter.com/HarinduLakshan1)  
-  - Kasun Madhushan
-  - Akila Siriwardhane
-  - Lakindu Kariyawasam
-  - Pubudu Rathnayake
-  - Isuri Mayadunne
-  - Vihangi Tharushi
-  - Samidi Sanjana
-  - Dinith Malaka
-  - Hansaka Umesh
+* Buddhika Dananjaya [@twitter](https://twitter.com/BuddhikaDanan16)  
   - Indukilana Botheju
-  - Buddhika Dhananjaya
   - Dinushi Dhananjani
-  - Lihini Nisansala
-  - Mewni Lasanya
   - Nimesh Kavinda
-  - Rashan Hasaranga
   - Chamoda Sanalpani
   - Senali Madawala
-  - Shashee Hansaja
-  - Srilal Sachintha
   - Thaanu Perera
-  - Vinuri Prabodya
+  - Amanda Siriwardena
+  - Avishka Sooriyapperuma
+  - Chanodie Pubudini
+  - Dasith Vidanage
+  - Nethmi Kodikara
+  - Hashinika Adhikari
+  - Suraji Ekanayaka
 
 
 ## How to join?

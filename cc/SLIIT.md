@@ -13,10 +13,11 @@ We are to continue to build momentum for Mozilla’s mission through new structu
 * Membership and Recruit Lead - Chamika Visal [@Linkedin](https://www.linkedin.com/in/chamika-perera-294074194/)
 
 ## How to join?
-The students who are interested can apply to be a sub-committee member of the club
+If our hopes of building a beter and safer world are to become more than wishful thinking, we will need the engagement of volunteering more than ever.
+So join with us (Dev Team/CS Team/DM Team).
 
-- First they need to apply by filling the application form [Click here](https://forms.gle/zCSZPvHB8WzGqvKS6)
-- Then they will be interviewed and recruited as a sub-committee member
+- First they need to apply by filling the application form [Click here](https://forms.gle/4U2roc4bkUkEfY3a8)
+- You will be interviewed and recruited as a volunteer/sub-committee member
 
 ## MIC/Board information
 
@@ -24,4 +25,7 @@ The students who are interested can apply to be a sub-committee member of the cl
 ## Links
 - [Find us on Facebook](https://www.facebook.com/sliitmcc)
 - [Find us on Instagram](https://www.instagram.com/mozillacampusclubsliit/)
+- [Find us on Linkdin](https://www.linkedin.com/com.../mozilla-campus-club-of-sliit)
+- [Find us on Twitter](https://twitter.com/mozillasliit?s=08)
+- [Find us on Youtube](https://youtu.be/Hdj3n8Ph6us)
 

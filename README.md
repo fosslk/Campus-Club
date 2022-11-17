@@ -1,6 +1,6 @@
 # FOSSLK Campus Clubs ⭐️
 
-## Instructions to add new record
+## Instructions to add a new record
 
 Fork the repository
 

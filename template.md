@@ -1,6 +1,7 @@
 # CAMPUS_SHORT_CODE - Your campus name
 
 Short introduction about your campus club should be included. It doesn't have to be super long but having something here would be ideal.
+
 ```diff
 - Do not remove this file from your PR
 + Create a new file with your campus shortcode and copy this content
@@ -8,9 +9,9 @@ Short introduction about your campus club should be included. It doesn't have to
 
 ## Members
 
-* Club captain name [@twitter](https://twitter.com)  
+**Club captain name** (`[first name] [last name]`)
 ```diff
-+ Include each member as a list. 
++ Include each member as one per each line. 
 ```
 
 ## How to join?

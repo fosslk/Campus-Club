@@ -9,7 +9,7 @@ We look forward to working with established partners and new ones with a common 
 
 ## Members
 
-* Amal Vishwajith 
+* **Amal Vishwajith**
  - Wimansha Herath
  - Akila Gunasekara
  - Sunera Sunilaka

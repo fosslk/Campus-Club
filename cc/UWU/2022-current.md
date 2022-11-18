@@ -1,4 +1,4 @@
-# UWU - Uva Wellassa University
+# UWU - Uva Wellassa University ![Final_Logo](https://user-images.githubusercontent.com/68012743/202668062-e0190d81-9b80-4c03-8692-4241d2a1f41a.png)
 
 Mozilla Campus Club - UWU is a community organization which supports university students to contribute Free and Open Source Software (FOSS) projects to make global web better.
 The world’s communications infrastructure needs to contend with pervasive surveillance, censorship, and misinformation. The need for us, as foundations, to join in advancing the university students in this rapidly evolving digital environment is greater than ever.

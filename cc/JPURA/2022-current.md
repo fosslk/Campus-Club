@@ -1,4 +1,4 @@
-![J'PURA FOSS](https://www.usjfoss.org/img/logo.png)
+<img src="https://www.usjfoss.org/img/logo.png" width="20%" />
 
 # JPURA - University of Sri Jayewardenepura
 

@@ -28,5 +28,5 @@ We look forward to working with established partners and new ones with a common 
 
 ## Links
 
-- [https://mozillauwu.github.io/](https://mozillauwu.github.io/)
+- [Website](https://mozillauwu.github.io/)
 - [Memebership registration](https://mozillauwu.page.link/reg)

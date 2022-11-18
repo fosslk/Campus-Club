@@ -21,7 +21,7 @@ We look forward to working with established partners and new ones with a common 
 ## How to join?
 
 - Go to [Mozilla Campus Club - UWU](https://mozillauwu.github.io/) official website
-- On top of the page click on the "join club" button. that will navigate you to the membership section
+- On top of the page click on the `join club` button. That will navigate you to the membership section
 - Click on the [Register Now](https://mozillauwu.page.link/reg) button 
 - Now fill the form and submit. thats all!
 

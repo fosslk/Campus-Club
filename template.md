@@ -11,7 +11,7 @@ Short introduction about your campus club should be included. It doesn't have to
 
 **Club captain name** (`[first name] [last name]`)
 ```diff
-+ Include each member as one per each line. 
++ Include each member as one per each line in the format of [first name] [last name]. 
 ```
 
 ## How to join?

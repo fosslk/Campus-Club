@@ -5,7 +5,7 @@
 
 ## Members
 
-* Santhusha Mallawatantri (Club Captain) [@LinkedIn](https://www.linkedin.com/in/santhusha-mallawatantri/)
+- **Santhusha Mallawatantri (Club Captain)**
 * Rajani Sooriyaarachchi (Women In FOSS Ambassador) [@LinkedIn]https://www.linkedin.com/in/rajani-sooriyaarachchi-72b304222/) 
 * Pavithraieni Ravichandran [@LinkedIn](https://www.linkedin.com/in/pavithraieni-ravichandran-99330416b/)
 * Gavinu Jayawardene [@LinkedIn]https://www.linkedin.com/in/gavinu-jayawardene-8254051b9/)

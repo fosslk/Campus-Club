@@ -34,7 +34,7 @@ Any student studying within ICBT who’s interested in joining with us , can sig
 
 ## MIC/Board information
 
-* Master In-Charge – Mr. Induranga De Silva. (mailto: induranga@icbtcampus.edu.lk)
+* Master In-Charge – Mr. Induranga De Silva. (mailto: induranga(at)icbtcampus(dot)edu(dot)lk)
 
 ## Links
 

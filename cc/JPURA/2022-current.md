@@ -6,7 +6,7 @@ J'pura FOSS community is a team of volunteers who helps to raise awareness about
 
 ## Members
 
-- **Yohan Sandun**
+- **Yohan Sandun (Club Lead)**
 - Chandika Prabhashwara
 - Dhanushika Jeganadhan
 - Savindu Hasanka

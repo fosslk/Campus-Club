@@ -3,7 +3,7 @@
 Our sole objective is to motivate students in our vibrant community to expand their knowledge in the latest tech industry and to assist them in contributing to open-source projects in the most effective and productive manner.  
 
 ## Members
-* Poojith Obeysekara (Club Lead) [@LinkedIn]( https://www.linkedin.com/in/poojithobeysekara/) 
+-  **Poojith Obeysekara (Club Lead)**
 * Bishmi Dissanayake  
 * Vishaka Randunuge  
 * Lankesh Halangoda

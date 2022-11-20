@@ -6,7 +6,7 @@ Contribute to the community with developments and new concepts transforming youn
 
 ## Members
 
-- **Thaanu Perera**
+- **Thaanu Perera (Club Lead)**
 - Nethmi Kodikara
 - Amanda Siriwardena
 - Wasana Manohari

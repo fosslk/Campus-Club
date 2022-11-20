@@ -23,6 +23,7 @@ Our sole objective is to motivate students in our vibrant community to expand th
 * Rasula Rathnayake
 * Rashmi Dissanayaka
 * Ravindu Rajapaksha
+* Faiqua Fiasz
 
 
 

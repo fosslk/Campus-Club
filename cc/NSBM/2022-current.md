@@ -27,6 +27,7 @@ Anyone interested in joining the Women in FOSS can follow the below steps.
 - Then you will be added as a volunteer to our official Whatsapp Group.
 
 ## MIC/Board information
+- Master In-Charge - Shafraz Mohamed [@LinkedIn](https://www.linkedin.com/in/shafraz-mohamed-75335633)
 
 ## Links
 

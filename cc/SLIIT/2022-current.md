@@ -34,3 +34,6 @@ So join with us.
 - [LinkedIn](https://www.linkedin.com/company/sliit-foss-community/)
 - [Facebook](https://www.facebook.com/sliitfoss)
 - [Twitter](https://twitter.com/fosssliit)
+- [Instagram](https://www.instagram.com/sliitfoss/)
+- [GitHub](https://github.com/sliit-foss)
+- [Youtube](https://www.youtube.com/@SLIITFOSSCommunity/)

@@ -6,7 +6,7 @@ A group of volunteers who believe in the usage of Free/Open Source Software (FOS
 
 ## Members
 
-- **Nisal Renuja Palliyaguru (Club Lead)**
+- **Nisal Palliyaguru (Club Lead)**
 - Madhusha Prasad
 - Sahas Gunasekara
 - Methmi Nugawela

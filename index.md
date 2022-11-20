@@ -1,5 +1,5 @@
 # FOSSLK Campus Clubs
-Information regarding FOSS Campus Clubs
+Information regarding FOSS Campus Clubs in collaboration with [FOSS.LK](https://foss.lk/)
 
 ## Active Clubs
 

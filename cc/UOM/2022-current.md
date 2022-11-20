@@ -1,5 +1,7 @@
 # UOM - University of Moratuwa
 
+![Mora FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/UoM/logo/2020/FOSS_Logo.png?raw=true#cc_logo)
+
 Mora FOSS Community is an initiative to build a platform for tech enthusiasts to raise awareness about Free and Open Source Software.
 
 We bring like minded people together in their thirst for knowledge and experience ,with a range of interactive activities and sessions to arm them with the latest updates and information.
@@ -17,7 +19,7 @@ We bring like minded people together in their thirst for knowledge and experienc
 
 ## How to join?
 
-* Any student studying in University of Moratuwa who's passionate in open source community can join with our community as a volunteer.
+* Any student studying in University of Moratuwa who is passionate in open source community can join with our community as a volunteer.
 * After contacting the community through one of our social media platforms, students will be added to the Community Whatsapp Group as a volunteer.
 * Thereafter they can contribute to the events and sessions which are organized by the community.
 

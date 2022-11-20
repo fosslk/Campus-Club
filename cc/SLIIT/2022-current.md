@@ -27,6 +27,8 @@ So join with us.
 - You will be interviewed and recruited as a member
 
 ## MIC/Board information
+- Jagath Wickramarathne [@LinkedIn](https://www.linkedin.com/in/jagath-wickramarathne-7aa79516/)
+- Amila Nuwan Senarathne [@LinkedIn](https://www.linkedin.com/in/amila-nuwan-senarathne-462b5a30)
 
 ## Links
 

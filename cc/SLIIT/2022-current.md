@@ -6,16 +6,16 @@ A group of volunteers who believe in the usage of Free/Open Source Software (FOS
 
 ## Members
 
-- **Nisal Renuja Palliyaguru (Club Lead)** [@Linkedin](https://www.linkedin.com/in/nisalrenuja/)
-- Madhusha Prasad [@Linkedin](https://www.linkedin.com/in/madhusha-prasad-045a82187/)
-- Sahas Gunasekara [@Linkedin](https://www.linkedin.com/in/5ahas/)
-- Methmi Nugawela [@Linkedin](https://www.linkedin.com/in/methmi-nugawela/?originalSubdomain=lk)
-- Lakisuru Semasinghe [@Linkedin](https://www.linkedin.com/in/lakizuru/)
-- Bhagya Indimagedara [@Linkedin](https://www.linkedin.com/in/bhagya-indimagedara/)
-- Miyuru Gunarathna [@Linkedin](https://www.linkedin.com/in/miyurugunarathna/)
-- Akalanka Perera [@Linkedin](https://www.linkedin.com/in/akalanka-perera-50899a1b3/)
-- Thushan Jaliya [@Linkedin](https://www.linkedin.com/in/thushan-jaliya-3b1507202/)
-- Danuja Hemal [@Linkedin](https://www.linkedin.com/in/danuja-jayasuriya-11483b211/)
+- **Nisal Renuja Palliyaguru (Club Lead)**
+- Madhusha Prasad
+- Sahas Gunasekara
+- Methmi Nugawela
+- Lakisuru Semasinghe
+- Bhagya Indimagedara
+- Miyuru Gunarathna
+- Akalanka Perera
+- Thushan Jaliya
+- Danuja Hemal
 
 ## How to join?
 

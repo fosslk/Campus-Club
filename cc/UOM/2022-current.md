@@ -1,6 +1,6 @@
 # UOM - University of Moratuwa
 
-![Mora FOSS Logo](https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/UoM/logo/2020/FOSS_Logo.png?raw=true#cc_logo)
+<img src="https://github.com/fosslk/OpenDesign/blob/master/campus-clubs/UoM/logo/2020/FOSS_Logo.png?raw=true#cc_logo" width="220" />
 
 Mora FOSS Community is an initiative to build a platform for tech enthusiasts to raise awareness about Free and Open Source Software.
 

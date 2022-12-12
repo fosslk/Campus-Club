@@ -30,29 +30,13 @@ The NIBM FOSS Community is open to any student at NIBM who are currently followi
 - The executive committee will then get in touch with the applicant and add them as a new member of the NIBM Computing Society.
 - Members who are willing to be a part of the FOSS Community will be added to the NIBM FOSS Community.
 
-Please contact the following executives for further details:  
-
-- Dileepa Bandara  
-  contact.dileepabandara@gmail.com  
-  Club Lead, NIBM FOSS Community  
-  President, NIBM Computing Society  
-  
-- Chamodi Thisaruwani  
-  thisaruwanichamodi@gmail.com  
-  Core Team Member, NIBM FOSS Community  
-  Executive - Membership, NIBM Computing Society  
-
 ## MIC/Board information
 
 - Master in Charge  
-  Mr. Thisara Weerasinghe  
-  thisara@nibm.lk  
-  [LinkedIn](https://lk.linkedin.com/in/thisara-weerasinghe-687b55a3)  
+  Mr. Thisara Weerasinghe    
   
 - Community Mentor  
   Mr. Sandun Karunarathne  
-  sandunprageeth@outlook.com  
-  [LinkedIn](https://www.linkedin.com/in/sandunprageeth)
 
 ## Links
 

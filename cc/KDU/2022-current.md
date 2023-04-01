@@ -11,19 +11,19 @@ The KDU FOSS Community is a group of students who are passionate about open sour
 
 ## Members
 
-Rivindu Munasinghe (Club Lead)
-Rushini Binithra
-Chamalshan Munasinghe
-Hasini Muthumali
-BKC Kasunara
-Riyajath Ahamed
-Githmi Amaya
-Mihin Himsara
-JMDT Nipul
-Sanchali Pramodha
-Kanishka Bernard
-HKA Geethanjana
-SHIDN De Silva
+- Rivindu Munasinghe (Club Lead)
+- Rushini Binithra
+- Chamalshan Munasinghe
+- Hasini Muthumali
+- BKC Kasunara
+- Riyajath Ahamed
+- Githmi Amaya
+- Mihin Himsara
+- JMDT Nipul
+- Sanchali Pramodha
+- Kanishka Bernard
+- HKA Geethanjana
+- SHIDN De Silva
 
 
 
